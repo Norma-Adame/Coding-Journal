@@ -1,4 +1,6 @@
 # Coding-Journal
+8-20-2021 Updated information on github.com
+
 8-19-2021 Learned about JavaScript.
 
 8-18-2021 Learning about The Odin Project.
