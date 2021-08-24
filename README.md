@@ -1,6 +1,6 @@
 # Coding-Journal
 
-8-24-2021 Finishing up CSS.
+8-24-2021 Continuing to work on CSS.
 
 8-23-2021 Finishing HTML in free codecamp.
 
